@@ -1,0 +1,33 @@
+This README file contains information on the contents of the meta-scorpion-app layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+None
+
+Patches
+=======
+
+Please submit any patches against meta-scorpion-app layer to mateuslima.ti@gmail.com
+and cc: the maintainer:
+
+Maintainer: Mateus Lima Alves <mateuslima.ti@gmail.com>
+
+Table of Contents
+=================
+
+  I. Adding meta-scorpion-app layer to your build
+ II. Misc
+
+
+I. Adding meta-scorpion-app layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-scorpion-app'
+
+II. Misc
+========
+
+OpenEmbedded/Yocto layer to the scorpion embedded app.
